@@ -1,4 +1,16 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "荥阳市第二初级中学"
+    "OrganizationName": "荥阳市第二初级中学",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/TZDS-01/xyez-uo-classisland-mgmt-cfg/master/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/TZDS-01/xyez-uo-classisland-mgmt-cfg/master/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/xyez-uo-/classisland-mgmt-cfg/master/subjects.json",
+        "Version": 1
+    }
 }
