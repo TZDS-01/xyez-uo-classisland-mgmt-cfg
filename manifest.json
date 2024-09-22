@@ -13,4 +13,8 @@
         "Value": "https://raw.githubusercontent.com/TZDS-01/xyez-uo-classisland-mgmt-cfg/master/subjects.json",
         "Version": 2
     }
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/TZDS-01/xyez-uo-classisland-mgmt-cfg/master/policy.json",
+        "Version": 1
+    }
 }
