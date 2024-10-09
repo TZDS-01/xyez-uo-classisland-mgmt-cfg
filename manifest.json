@@ -1,20 +1,4 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "荥阳市第二初级中学",
-    "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/TZDS-01/xyez-uo-classisland-mgmt-cfg/master/classplans.json",
-        "Version": 2
-    },
-    "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/TZDS-01/xyez-uo-classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 2
-    },
-    "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/TZDS-01/xyez-uo-classisland-mgmt-cfg/master/subjects.json",
-        "Version": 2
-    }
-    "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/TZDS-01/xyez-uo-classisland-mgmt-cfg/master/policy.json",
-        "Version": 1
-    }
+    "OrganizationName": "荥阳市第二初级中学"
 }
